@@ -1,6 +1,6 @@
 # auction-front
 
-> A Vue.js project
+> 蜗牛拍拍前端项目
 
 ## Build Setup
 
